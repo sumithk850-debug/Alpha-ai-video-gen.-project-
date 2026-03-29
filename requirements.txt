@@ -1,5 +1,7 @@
-streamlit
-groq
-requests
-edge-tts
+streamlit 
+huggingface_hub 
+groq 
+requests 
+edge-tts 
+Pillow 
 duckduckgo-search
